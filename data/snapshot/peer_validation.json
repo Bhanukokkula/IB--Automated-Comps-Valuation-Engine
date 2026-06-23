@@ -1,0 +1,253 @@
+{
+  "per_target": [
+    {
+      "target": "JPM",
+      "sector": "Banks",
+      "reference_set": [
+        "BAC",
+        "C",
+        "COF",
+        "PNC",
+        "TFC",
+        "USB",
+        "WFC"
+      ],
+      "model_top10": [
+        "BAC",
+        "C",
+        "COF",
+        "PNC",
+        "STT",
+        "TFC",
+        "USB",
+        "WFC"
+      ],
+      "overlap": [
+        "BAC",
+        "C",
+        "COF",
+        "PNC",
+        "TFC",
+        "USB",
+        "WFC"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    },
+    {
+      "target": "XOM",
+      "sector": "Energy",
+      "reference_set": [
+        "COP",
+        "CVX",
+        "EOG",
+        "HAL",
+        "MPC",
+        "OXY",
+        "PSX",
+        "SLB",
+        "VLO"
+      ],
+      "model_top10": [
+        "COP",
+        "CVX",
+        "EOG",
+        "HAL",
+        "MPC",
+        "OXY",
+        "PSX",
+        "SLB",
+        "VLO"
+      ],
+      "overlap": [
+        "COP",
+        "CVX",
+        "EOG",
+        "HAL",
+        "MPC",
+        "OXY",
+        "PSX",
+        "SLB",
+        "VLO"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    },
+    {
+      "target": "KO",
+      "sector": "Consumer Staples",
+      "reference_set": [
+        "PEP"
+      ],
+      "model_top10": [
+        "CL",
+        "ECL",
+        "GIS",
+        "HSY",
+        "KR",
+        "MDLZ",
+        "MO",
+        "PEP",
+        "PG",
+        "PM"
+      ],
+      "overlap": [
+        "PEP"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    },
+    {
+      "target": "NKE",
+      "sector": "Apparel & Footwear",
+      "reference_set": [
+        "DECK",
+        "LULU",
+        "RL",
+        "VFC"
+      ],
+      "model_top10": [
+        "DECK",
+        "LULU",
+        "RL",
+        "ROST",
+        "TJX",
+        "VFC"
+      ],
+      "overlap": [
+        "DECK",
+        "LULU",
+        "RL",
+        "VFC"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    },
+    {
+      "target": "MCD",
+      "sector": "Restaurants & Leisure",
+      "reference_set": [
+        "CMG",
+        "DPZ",
+        "SBUX",
+        "YUM"
+      ],
+      "model_top10": [
+        "CMG",
+        "DIS",
+        "HLT",
+        "MAR",
+        "NFLX",
+        "SBUX",
+        "YUM"
+      ],
+      "overlap": [
+        "CMG",
+        "SBUX",
+        "YUM"
+      ],
+      "missed_by_model": [
+        "DPZ"
+      ],
+      "agreement_rate": 0.75
+    },
+    {
+      "target": "HD",
+      "sector": "General & Specialty Retail",
+      "reference_set": [
+        "LOW",
+        "ROST",
+        "TGT",
+        "TJX"
+      ],
+      "model_top10": [
+        "AMZN",
+        "BBY",
+        "COST",
+        "CVS",
+        "DG",
+        "DLTR",
+        "LOW",
+        "SHW",
+        "TGT",
+        "WMT"
+      ],
+      "overlap": [
+        "LOW",
+        "TGT"
+      ],
+      "missed_by_model": [
+        "ROST",
+        "TJX"
+      ],
+      "agreement_rate": 0.5
+    },
+    {
+      "target": "AAL",
+      "sector": "Transportation",
+      "reference_set": [
+        "DAL",
+        "LUV",
+        "UAL"
+      ],
+      "model_top10": [
+        "BKNG",
+        "CSX",
+        "DAL",
+        "EXPE",
+        "FDX",
+        "LUV",
+        "NSC",
+        "UAL",
+        "UNP",
+        "UPS"
+      ],
+      "overlap": [
+        "DAL",
+        "LUV",
+        "UAL"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    },
+    {
+      "target": "SO",
+      "sector": "Utilities",
+      "reference_set": [
+        "AEP",
+        "D",
+        "DUK",
+        "ED",
+        "EXC",
+        "NEE",
+        "WEC",
+        "XEL"
+      ],
+      "model_top10": [
+        "AEP",
+        "D",
+        "DUK",
+        "ED",
+        "EIX",
+        "EXC",
+        "NEE",
+        "PCG",
+        "WEC",
+        "XEL"
+      ],
+      "overlap": [
+        "AEP",
+        "D",
+        "DUK",
+        "ED",
+        "EXC",
+        "NEE",
+        "WEC",
+        "XEL"
+      ],
+      "missed_by_model": [],
+      "agreement_rate": 1.0
+    }
+  ],
+  "mean_agreement_rate": 0.90625
+}

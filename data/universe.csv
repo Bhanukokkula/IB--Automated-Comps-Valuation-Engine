@@ -1,0 +1,243 @@
+ticker,cik,title,sic,sic_description
+AAL,0000006201,American Airlines Group Inc.,4512,"Air Transportation, Scheduled"
+AAPL,0000320193,Apple Inc.,3571,Electronic Computers
+ABBV,0001551152,AbbVie Inc.,2834,Pharmaceutical Preparations
+ABNB,0001559720,"Airbnb, Inc.",7340,Services-To Dwellings & Other Buildings
+ACN,0001467373,Accenture plc,7389,"Services-Business Services, NEC"
+ADBE,0000796343,ADOBE INC.,7372,Services-Prepackaged Software
+ADI,0000006281,ANALOG DEVICES INC,3674,Semiconductors & Related Devices
+AEP,0000004904,AMERICAN ELECTRIC POWER CO INC,4911,Electric Services
+ALB,0000915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers"
+AMAT,0000006951,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices
+AMD,0000002488,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices
+AMGN,0000318154,AMGEN INC,2836,"Biological Products, (No Diagnostic Substances)"
+AMT,0001053507,AMERICAN TOWER CORP /MA/,6798,Real Estate Investment Trusts
+AMZN,0001018724,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses
+APD,0000002969,"Air Products & Chemicals, Inc.",2810,Industrial Inorganic Chemicals
+ARE,0001035443,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",6798,Real Estate Investment Trusts
+ASML,0000937966,ASML HOLDING NV,3559,"Special Industry Machinery, NEC"
+AVB,0000915912,AVALONBAY COMMUNITIES INC,6798,Real Estate Investment Trusts
+AVGO,0001730168,Broadcom Inc.,3674,Semiconductors & Related Devices
+AXP,0000004962,AMERICAN EXPRESS CO,6199,Finance Services
+BA,0000012927,BOEING CO,3721,Aircraft
+BABA,0001577552,Alibaba Group Holding Ltd,7389,"Services-Business Services, NEC"
+BAC,0000070858,BANK OF AMERICA CORP /DE/,6021,National Commercial Banks
+BBY,0000764478,BEST BUY CO INC,5731,"Retail-Radio, Tv & Consumer Electronics Stores"
+BIDU,0001329099,"Baidu, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+BIIB,0000875045,BIOGEN INC.,2836,"Biological Products, (No Diagnostic Substances)"
+BKNG,0001075531,Booking Holdings Inc.,4700,Transportation Services
+BMY,0000014272,BRISTOL MYERS SQUIBB CO,2834,Pharmaceutical Preparations
+C,0000831001,CITIGROUP INC,6021,National Commercial Banks
+CAT,0000018230,CATERPILLAR INC,3531,Construction Machinery & Equip
+CCI,0001051470,CROWN CASTLE INC.,6798,Real Estate Investment Trusts
+CHTR,0001091667,"CHARTER COMMUNICATIONS, INC. /MO/",4841,Cable & Other Pay Television Services
+CHWY,0001766502,"Chewy, Inc.",5961,Retail-Catalog & Mail-Order Houses
+CI,0001739940,Cigna Group,6324,Hospital & Medical Service Plans
+CL,0000021665,COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations"
+CLX,0000021076,CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations"
+CMCSA,0001166691,COMCAST CORP,4841,Cable & Other Pay Television Services
+CME,0001156375,CME GROUP INC.,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services"
+CMG,0001058090,CHIPOTLE MEXICAN GRILL INC,5812,Retail-Eating  Places
+CNC,0001071739,CENTENE CORP,6324,Hospital & Medical Service Plans
+COF,0000927628,CAPITAL ONE FINANCIAL CORP,6021,National Commercial Banks
+COIN,0001679788,"Coinbase Global, Inc.",6199,Finance Services
+COP,0001163165,CONOCOPHILLIPS,2911,Petroleum Refining
+COST,0000909832,COSTCO WHOLESALE CORP /NEW,5331,Retail-Variety Stores
+CRM,0001108524,"Salesforce, Inc.",7372,Services-Prepackaged Software
+CRWD,0001535527,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software
+CSCO,0000858877,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment
+CSX,0000277948,CSX CORP,4011,"Railroads, Line-Haul Operating"
+CVS,0000064803,CVS HEALTH Corp,5912,Retail-Drug Stores and Proprietary Stores
+CVX,0000093410,CHEVRON CORP,2911,Petroleum Refining
+D,0000715957,"DOMINION ENERGY, INC",4911,Electric Services
+DAL,0000027904,"DELTA AIR LINES, INC.",4512,"Air Transportation, Scheduled"
+DASH,0001792789,"DoorDash, Inc.",7389,"Services-Business Services, NEC"
+DD,0001666700,"DuPont de Nemours, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers"
+DDOG,0001561550,"Datadog, Inc.",7372,Services-Prepackaged Software
+DE,0000315189,DEERE & CO,3523,Farm Machinery & Equipment
+DECK,0000910521,DECKERS OUTDOOR CORP,3021,Rubber & Plastics Footwear
+DELL,0001571996,Dell Technologies Inc.,3571,Electronic Computers
+DG,0000029534,DOLLAR GENERAL CORP,5331,Retail-Variety Stores
+DIS,0001744489,Walt Disney Co,7990,Services-Miscellaneous Amusement & Recreation
+DLR,0001297996,"DIGITAL REALTY TRUST, INC.",6798,Real Estate Investment Trusts
+DLTR,0000935703,"DOLLAR TREE, INC.",5331,Retail-Variety Stores
+DOCU,0001261333,"DOCUSIGN, INC.",7372,Services-Prepackaged Software
+DOW,0001751788,DOW INC.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers"
+DPZ,0001286681,DOMINOS PIZZA INC,5140,Wholesale-Groceries & Related Products
+DUK,0001326160,Duke Energy CORP,4931,Electric & Other Services Combined
+EBAY,0001065088,EBAY INC,7389,"Services-Business Services, NEC"
+ECL,0000031462,ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics"
+ED,0001047862,CONSOLIDATED EDISON INC,4931,Electric & Other Services Combined
+EFX,0000033185,EQUIFAX INC,7320,"Services-Consumer Credit Reporting, Collection Agencies"
+EIX,0000827052,EDISON INTERNATIONAL,4911,Electric Services
+ELV,0001156039,"Elevance Health, Inc.",6324,Hospital & Medical Service Plans
+EMN,0000915389,EASTMAN CHEMICAL CO,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers"
+EMR,0000032604,EMERSON ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip)
+EOG,0000821189,EOG RESOURCES INC,1311,Crude Petroleum & Natural Gas
+EQIX,0001101239,EQUINIX INC,6798,Real Estate Investment Trusts
+EQR,0000906107,EQUITY RESIDENTIAL,6798,Real Estate Investment Trusts
+ETN,0001551182,Eaton Corp plc,3590,Misc Industrial & Commercial Machinery & Equipment
+ETSY,0001370637,ETSY INC,7389,"Services-Business Services, NEC"
+EXC,0001109357,EXELON CORP,4931,Electric & Other Services Combined
+EXPE,0001324424,"Expedia Group, Inc.",4700,Transportation Services
+F,0000037996,FORD MOTOR CO,3711,Motor Vehicles & Passenger Car Bodies
+FCX,0000831259,FREEPORT-MCMORAN INC,1000,Metal Mining
+FDX,0001048911,FEDEX CORP,4513,Air Courier Services
+FICO,0000814547,FAIR ISAAC CORP,7389,"Services-Business Services, NEC"
+FIS,0001136893,"Fidelity National Information Services, Inc.",7389,"Services-Business Services, NEC"
+FISV,0000798354,FISERV INC,7389,"Services-Business Services, NEC"
+GD,0000040533,GENERAL DYNAMICS CORP,3730,Ship & Boat Building & Repairing
+GE,0000040545,GENERAL ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip)
+GILD,0000882095,"GILEAD SCIENCES, INC.",2836,"Biological Products, (No Diagnostic Substances)"
+GIS,0000040704,GENERAL MILLS INC,2040,Grain Mill Products
+GM,0001467858,General Motors Co,3711,Motor Vehicles & Passenger Car Bodies
+GOOGL,0001652044,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+GPN,0001123360,GLOBAL PAYMENTS INC,7389,"Services-Business Services, NEC"
+GS,0000886982,GOLDMAN SACHS GROUP INC,6211,"Security Brokers, Dealers & Flotation Companies"
+HAL,0000045012,HALLIBURTON CO,1389,"Oil & Gas Field Services, NEC"
+HD,0000354950,"HOME DEPOT, INC.",5211,Retail-Lumber & Other Building Materials Dealers
+HLT,0001585689,Hilton Worldwide Holdings Inc.,7011,Hotels & Motels
+HMC,0000715153,HONDA MOTOR CO LTD,3711,Motor Vehicles & Passenger Car Bodies
+HON,0000773840,HONEYWELL INTERNATIONAL INC,3724,Aircraft Engines & Engine Parts
+HPQ,0000047217,HP INC,3570,Computer & office Equipment
+HSY,0000047111,HERSHEY CO,2060,Sugar & Confectionery Products
+HUM,0000049071,HUMANA INC,6324,Hospital & Medical Service Plans
+IBM,0000051143,INTERNATIONAL BUSINESS MACHINES CORP,3570,Computer & office Equipment
+ICE,0001571949,"Intercontinental Exchange, Inc.",6200,"Security & Commodity Brokers, Dealers, Exchanges & Services"
+IFF,0000051253,INTERNATIONAL FLAVORS & FRAGRANCES INC,2860,Industrial Organic Chemicals
+INTC,0000050863,INTEL CORP,3674,Semiconductors & Related Devices
+INTU,0000896878,INTUIT INC.,7372,Services-Prepackaged Software
+ITW,0000049826,ILLINOIS TOOL WORKS INC,3560,General Industrial Machinery & Equipment
+JD,0001549802,"JD.com, Inc.",5990,"Retail-Retail Stores, NEC"
+JKHY,0000779152,JACK HENRY & ASSOCIATES INC,7373,Services-Computer Integrated Systems Design
+JNJ,0000200406,JOHNSON & JOHNSON,2834,Pharmaceutical Preparations
+JPM,0000019617,JPMORGAN CHASE & CO,6021,National Commercial Banks
+KLAC,0000319201,KLA CORP,3827,Optical Instruments & Lenses
+KMB,0000055785,KIMBERLY CLARK CORP,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes)
+KO,0000021344,COCA COLA CO,2080,Beverages
+KR,0000056873,KROGER CO,5411,Retail-Grocery Stores
+LCID,0001811210,"Lucid Group, Inc.",3711,Motor Vehicles & Passenger Car Bodies
+LIN,0001707925,LINDE PLC,2810,Industrial Inorganic Chemicals
+LLY,0000059478,ELI LILLY & Co,2834,Pharmaceutical Preparations
+LMT,0000936468,LOCKHEED MARTIN CORP,3760,Guided Missiles & Space Vehicles & Parts
+LOW,0000060667,LOWES COMPANIES INC,5211,Retail-Lumber & Other Building Materials Dealers
+LRCX,0000707549,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC"
+LULU,0001397187,lululemon athletica inc.,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl
+LUV,0000092380,SOUTHWEST AIRLINES CO,4512,"Air Transportation, Scheduled"
+LYFT,0001759509,"Lyft, Inc.",7389,"Services-Business Services, NEC"
+MA,0001141391,Mastercard Inc,7389,"Services-Business Services, NEC"
+MAR,0001048286,MARRIOTT INTERNATIONAL INC /MD/,7011,Hotels & Motels
+MCD,0000063908,MCDONALDS CORP,5812,Retail-Eating  Places
+MCHP,0000827054,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices
+MCO,0001059556,MOODYS CORP /DE/,7320,"Services-Consumer Credit Reporting, Collection Agencies"
+MDB,0001441816,"MongoDB, Inc.",7372,Services-Prepackaged Software
+MDLZ,0001103982,"Mondelez International, Inc.",2000,Food and Kindred Products
+MELI,0001099590,MERCADOLIBRE INC,7389,"Services-Business Services, NEC"
+META,0001326801,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+MMM,0000066740,3M CO,3841,Surgical & Medical Instruments & Apparatus
+MO,0000764180,"ALTRIA GROUP, INC.",2111,Cigarettes
+MPC,0001510295,Marathon Petroleum Corp,2911,Petroleum Refining
+MRK,0000310158,"Merck & Co., Inc.",2834,Pharmaceutical Preparations
+MS,0000895421,MORGAN STANLEY,6211,"Security Brokers, Dealers & Flotation Companies"
+MSCI,0001408198,MSCI Inc.,7389,"Services-Business Services, NEC"
+MSFT,0000789019,MICROSOFT CORP,7372,Services-Prepackaged Software
+MU,0000723125,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices
+NDAQ,0001120193,"NASDAQ, INC.",6200,"Security & Commodity Brokers, Dealers, Exchanges & Services"
+NEE,0000753308,NEXTERA ENERGY INC,4911,Electric Services
+NEM,0001164727,NEWMONT Corp /DE/,1040,Gold and Silver Ores
+NET,0001477333,"Cloudflare, Inc.",7372,Services-Prepackaged Software
+NFLX,0001065280,NETFLIX INC,7841,Services-Video Tape Rental
+NKE,0000320187,"NIKE, Inc.",3021,Rubber & Plastics Footwear
+NOC,0001133421,NORTHROP GRUMMAN CORP /DE/,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys"
+NOW,0001373715,"ServiceNow, Inc.",7372,Services-Prepackaged Software
+NSC,0000702165,NORFOLK SOUTHERN CORP,4011,"Railroads, Line-Haul Operating"
+NTES,0001110646,"NetEase, Inc.",7372,Services-Prepackaged Software
+NUE,0000073309,NUCOR CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+NXPI,0001413447,NXP Semiconductors N.V.,3674,Semiconductors & Related Devices
+O,0000726728,REALTY INCOME CORP,6798,Real Estate Investment Trusts
+OKTA,0001660134,"Okta, Inc.",7372,Services-Prepackaged Software
+ON,0001097864,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices
+ORCL,0001341439,ORACLE CORP,7372,Services-Prepackaged Software
+OXY,0000797468,OCCIDENTAL PETROLEUM CORP /DE/,1311,Crude Petroleum & Natural Gas
+PANW,0001327567,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC"
+PCG,0001004980,PG&E Corp,4931,Electric & Other Services Combined
+PDD,0001737806,PDD Holdings Inc.,7389,"Services-Business Services, NEC"
+PEP,0000077476,PEPSICO INC,2080,Beverages
+PFE,0000078003,PFIZER INC,2834,Pharmaceutical Preparations
+PG,0000080424,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics"
+PH,0000076334,Parker-Hannifin Corp,3490,Miscellaneous Fabricated Metal Products
+PINS,0001506293,"PINTEREST, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+PLD,0001045609,"Prologis, Inc.",6798,Real Estate Investment Trusts
+PLTR,0001321655,Palantir Technologies Inc.,7372,Services-Prepackaged Software
+PM,0001413329,Philip Morris International Inc.,2111,Cigarettes
+PNC,0000713676,"PNC FINANCIAL SERVICES GROUP, INC.",6021,National Commercial Banks
+PPG,0000079879,PPG INDUSTRIES INC,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods"
+PSA,0001393311,Public Storage,6798,Real Estate Investment Trusts
+PSX,0001534701,Phillips 66,2911,Petroleum Refining
+PYPL,0001633917,"PayPal Holdings, Inc.",7389,"Services-Business Services, NEC"
+QCOM,0000804328,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment
+RBLX,0001315098,Roblox Corp,7372,Services-Prepackaged Software
+REGN,0000872589,"REGENERON PHARMACEUTICALS, INC.",2834,Pharmaceutical Preparations
+RIVN,0001874178,"Rivian Automotive, Inc. / DE",3711,Motor Vehicles & Passenger Car Bodies
+RL,0001037038,RALPH LAUREN CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments"
+ROKU,0001428439,"ROKU, INC",4841,Cable & Other Pay Television Services
+ROST,0000745732,"ROSS STORES, INC.",5651,Retail-Family Clothing Stores
+RTX,0000101829,RTX Corp,3724,Aircraft Engines & Engine Parts
+SBUX,0000829224,STARBUCKS CORP,5810,Retail-Eating & Drinking Places
+SCHW,0000316709,SCHWAB CHARLES CORP,6211,"Security Brokers, Dealers & Flotation Companies"
+SE,0001703399,Sea Ltd,7380,Services-Miscellaneous Business Services
+SHOP,0001594805,SHOPIFY INC.,7372,Services-Prepackaged Software
+SHW,0000089800,SHERWIN WILLIAMS CO,5200,"Retail-Building Materials, Hardware, Garden Supply"
+SLB,0000087347,SLB LIMITED/NV,1389,"Oil & Gas Field Services, NEC"
+SLG,0001040971,SL GREEN REALTY CORP,6798,Real Estate Investment Trusts
+SNAP,0001564408,Snap Inc,7370,"Services-Computer Programming, Data Processing, Etc."
+SNOW,0001640147,Snowflake Inc.,7372,Services-Prepackaged Software
+SO,0000092122,SOUTHERN CO,4911,Electric Services
+SPG,0001063761,SIMON PROPERTY GROUP INC.,6798,Real Estate Investment Trusts
+SPGI,0000064040,S&P Global Inc.,7320,"Services-Consumer Credit Reporting, Collection Agencies"
+SPOT,0001639920,Spotify Technology S.A.,4832,Radio Broadcasting Stations
+STLD,0001022671,STEEL DYNAMICS INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+STM,0000932787,STMicroelectronics N.V.,3674,Semiconductors & Related Devices
+STT,0000093751,STATE STREET CORP,6022,State Commercial Banks
+SWKS,0000004127,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices
+T,0000732717,AT&T INC.,4813,Telephone Communications (No Radiotelephone)
+TEAM,0001650372,Atlassian Corp,7372,Services-Prepackaged Software
+TFC,0000092230,TRUIST FINANCIAL CORP,6021,National Commercial Banks
+TGT,0000027419,TARGET CORP,5331,Retail-Variety Stores
+TJX,0000109198,TJX COMPANIES INC /DE/,5651,Retail-Family Clothing Stores
+TM,0001094517,TOYOTA MOTOR CORP/,3711,Motor Vehicles & Passenger Car Bodies
+TMUS,0001283699,"T-Mobile US, Inc.",4812,Radiotelephone Communications
+TSLA,0001318605,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies
+TSM,0001046179,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,3674,Semiconductors & Related Devices
+TTD,0001671933,"Trade Desk, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+TWLO,0001447669,TWILIO INC,7372,Services-Prepackaged Software
+TXN,0000097476,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices
+U,0001810806,Unity Software Inc.,7372,Services-Prepackaged Software
+UAL,0000100517,"United Airlines Holdings, Inc.",4512,"Air Transportation, Scheduled"
+UBER,0001543151,"Uber Technologies, Inc",7389,"Services-Business Services, NEC"
+UNH,0000731766,UNITEDHEALTH GROUP INC,6324,Hospital & Medical Service Plans
+UNP,0000100885,UNION PACIFIC CORP,4011,"Railroads, Line-Haul Operating"
+UPS,0001090727,UNITED PARCEL SERVICE INC,4210,Trucking & Courier Services (No Air)
+USB,0000036104,US BANCORP DE,6021,National Commercial Banks
+V,0001403161,VISA INC.,7389,"Services-Business Services, NEC"
+VFC,0000103379,V F CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments"
+VLO,0001035002,VALERO ENERGY CORP/TX,2911,Petroleum Refining
+VRSK,0001442145,"Verisk Analytics, Inc.",7374,Services-Computer Processing & Data Preparation
+VRTX,0000875320,VERTEX PHARMACEUTICALS INC / MA,2834,Pharmaceutical Preparations
+VTR,0000740260,"Ventas, Inc.",6798,Real Estate Investment Trusts
+VZ,0000732712,VERIZON COMMUNICATIONS INC,4813,Telephone Communications (No Radiotelephone)
+W,0001616707,Wayfair Inc.,5961,Retail-Catalog & Mail-Order Houses
+WBD,0001437107,"Warner Bros. Discovery, Inc.",4841,Cable & Other Pay Television Services
+WDAY,0001327811,"Workday, Inc.",7374,Services-Computer Processing & Data Preparation
+WEC,0000783325,"WEC ENERGY GROUP, INC.",4931,Electric & Other Services Combined
+WELL,0000766704,WELLTOWER INC.,6798,Real Estate Investment Trusts
+WFC,0000072971,WELLS FARGO & COMPANY/MN,6021,National Commercial Banks
+WMT,0000104169,Walmart Inc.,5331,Retail-Variety Stores
+WU,0001365135,Western Union CO,7389,"Services-Business Services, NEC"
+XEL,0000072903,XCEL ENERGY INC,4931,Electric & Other Services Combined
+XOM,0000034088,EXXON MOBIL CORP,2911,Petroleum Refining
+YUM,0001041061,YUM BRANDS INC,5812,Retail-Eating  Places
+ZG,0001617640,"ZILLOW GROUP, INC.",7389,"Services-Business Services, NEC"
+ZM,0001585521,"Zoom Communications, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+ZS,0001713683,"Zscaler, Inc.",7371,Services-Computer Programming Services
+ZTS,0001555280,Zoetis Inc.,2834,Pharmaceutical Preparations
